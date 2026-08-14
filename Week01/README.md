@@ -39,12 +39,12 @@
 
 ## Challenges Encountered
 
-1. **Problem:** *[e.g., Git was not recognized in my command prompt after installation.]*
-   * **Solution:** *[e.g., I had to manually add the Git executable path to my Windows Environment Variables.]*
-2. **Problem:** *[Describe your second problem here]*
-   * **Solution:** *[Explain how you fixed it here]*
-3. **Problem:** *[Describe your third problem here]*
-   * **Solution:** *[Explain how you fixed it here]*
+1. **Problem:** Git was not recognized in my command prompt after installation.
+   * **Solution:** I had to manually add the Git executable path to my Windows Environment Variables and restart my terminal for the system to recognize the `git` command.
+2. **Problem:** I received an "Authentication failed" or "Support for password authentication was removed" error when trying to push my code to GitHub.
+   * **Solution:** I discovered that GitHub requires token-based authentication. I navigated to my GitHub Developer Settings, generated a Personal Access Token (PAT), and used that token as my password when prompted in the terminal.
+3. **Problem:** I accidentally initialized a Git repository in my root user directory instead of my specific project folder.
+   * **Solution:** I enabled the viewing of hidden files in my file explorer, deleted the hidden `.git` folder in the root directory to stop tracking it, and then used the `cd` command to navigate into my correct `BSIT-SystemAdministration-Portfolio` folder before running `git init` again.
 
 
 ## References
