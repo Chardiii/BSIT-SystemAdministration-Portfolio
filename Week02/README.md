@@ -74,9 +74,6 @@ This project presents a comprehensive, ground-up IT Infrastructure Plan for **AB
 The network topology follows a defense-in-depth architecture:  
 `Internet (ISP Modem) → Edge Router → Next-Gen Firewall → 24-Port Core Managed Switch → VLAN-Segmented Workstations & Wireless APs`.
 
-![Enterprise Network Diagram](diagrams/network-topology.png)
-
-*(Ensure your diagram file is saved under `diagrams/network-topology.png`)*
 
 ---
 
