@@ -1,10 +1,12 @@
 
 # Week 1 – Building My Professional Environment
+
 ## Student Information
-ü Name: Cliff Richard R. Veluz
-ü Course: BSIT
-ü Section: 4B
-ü Date:
+  Name: Cliff Richard R. Veluz
+  Course: BSIT
+  Section: 4B
+  Date:
+  
 # Objectives
 (Write your own learning objectives.)
 ---
