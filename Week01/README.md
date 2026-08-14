@@ -42,3 +42,11 @@
    * **Solution:** *[Explain how you fixed it here]*
 3. **Problem:** *[Describe your third problem here]*
    * **Solution:** *[Explain how you fixed it here]*
+
+
+## References
+*https://github.com/
+*https://www.virtualbox.org/wiki/Downloads
+*https://www.linkedin.com/feed/
+*https://git-scm.com/install/windows
+*https://desktop.github.com/download/
