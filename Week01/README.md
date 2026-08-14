@@ -16,7 +16,9 @@
 ## Software Installed
 * Git
 * Visual Studio Code
-* *[Add any other software you installed, like VirtualBox, XAMPP, etc.]*
+* VirtualBox
+* GitHub Desktop
+
 
 ---
 
@@ -27,10 +29,11 @@
 ---
 
 ## Installation Screenshots
-*[Note: You can drag and drop images directly into the GitHub editor to upload them, or use the format below]*
 
-![Description of screenshot 1](link-to-screenshot.png)
-![Description of screenshot 2](link-to-screenshot.png)
+![Screenshot 1](screenshots/Screenshot%202026-08-14%20164539.png)
+![Screenshot 2](screenshots/Screenshot%202026-08-14%20164637.png)
+![Screenshot 3](screenshots/Screenshot%202026-08-14%20164755.png)
+![Screenshot 4](screenshots/Screenshot%202026-08-14%20165150.png)
 
 ---
 
